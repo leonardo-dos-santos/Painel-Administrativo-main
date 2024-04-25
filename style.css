@@ -198,5 +198,21 @@ form {
 /* Main */
 
 main {
-  background-color: rgb(180, 180, 207);
+  display: grid;
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+  background-color: rgb(226, 232, 240);
+}
+
+.interaction img {
+  width: 20px;
+}
+
+.content-main {
+  padding: 30px 20px;
+  display: grid;
+  grid-column: 2 / 4;
+}
+
+.projects {
 }
