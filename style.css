@@ -360,11 +360,6 @@ main {
   
 }
 
-.clickable:hover {
-  cursor: pointer;
-  -webkit-transform: scale(1.07);
-}
-
 ul li:hover {
   text-decoration: underline;
   cursor: pointer;
